@@ -1,2 +1,2 @@
 # Amazon-Clone
-Amazonc clone using Html and Css
+Amazon clone using Html and Css
